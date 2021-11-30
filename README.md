@@ -24,6 +24,8 @@ Rules:
 
 11. Use is no matter the quantity of the object, plural or singular.
 
+12. !!! can be used as response to others when don't know what to say.
+
 
 <sub>1</sub>
 
@@ -45,3 +47,5 @@ Speed is a result of allowing typos
 
 ! can be used in combination of ? to express different emotions
 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
